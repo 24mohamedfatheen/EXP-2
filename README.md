@@ -56,7 +56,8 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
+![Uploading image.png…]()
+
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
