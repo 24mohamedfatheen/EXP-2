@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | Mohamed Fatheen| **Reg. No.:** |26006890 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |17-11-2026 | **Batch / Section:** | 26ODJ102|
 
 ---
 
