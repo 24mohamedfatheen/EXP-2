@@ -90,8 +90,8 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 | 4 | 133|0.23 |
 | 5 | 135|0.24 |
 | 6 |138 |0.28 |
-| 7 | | |
-| 8 | | |
+| 7 | 140|0.32 |
+| 8 | 142| 0.36|
 
 ### B. Load test
 
