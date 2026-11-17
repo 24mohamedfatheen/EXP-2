@@ -97,12 +97,12 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Load current IL (A) | Load voltage VL (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
+| 1 | 1.2|220 |
+| 2 | 2.8|212 |
+| 3 |3.6 |205 |
+| 4 | 7| 195|
+| 5 | 10.2| 184|
+| 6 | 12.7| 176|
 | 7 | | |
 | 8 | | |
 
