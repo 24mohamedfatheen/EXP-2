@@ -57,6 +57,9 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 ## CIRCUIT DIAGRAM
 
 <img width="1600" height="989" alt="image" src="https://github.com/user-attachments/assets/4678d955-feef-4aad-947d-e216420cf73c" />
+<img width="1600" height="916" alt="image" src="https://github.com/user-attachments/assets/f0ea5b3f-efcb-404e-b9f3-0daace3ae6a2" />
+
+
 
 
 
